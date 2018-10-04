@@ -7,6 +7,8 @@
 
 1.An optimal binding of variables: [Monotone optimal binningalgorithm for credit risk modeling](https://www.researchgate.net/publication/322520135_Monotone_optimal_binning_algorithm_for_credit_risk_modeling) 
 
+2. Optimizing Prediction Intervals by Tuning Random Forest via Meta-Validation: [link](https://arxiv.org/pdf/1801.07194.pdf)
+
 
 
 
