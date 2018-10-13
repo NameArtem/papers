@@ -18,6 +18,8 @@
 
 1. A Tutorial on Principal Component Analysis: [link](https://arxiv.org/pdf/1404.1100.pdf)
 
+2. Dimensionality Reduction (PCA & others): [A short tutorial] (https://www.math.uwaterloo.ca/~aghodsib/courses/f06stat890/readings/tutorial_stat890.pdf)
+
 
 ### HSE work (learning path)
 
