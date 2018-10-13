@@ -12,6 +12,12 @@
 3. A Random Forest Guided Tour: [Forest](https://arxiv.org/pdf/1511.05741.pdf)
 
 
+## ML / analysis
+
+### data 2018-10
+
+1. A Tutorial on Principal Component Analysis: [link](https://arxiv.org/pdf/1404.1100.pdf)
+
 
 ### HSE work (learning path)
 
