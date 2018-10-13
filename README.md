@@ -20,6 +20,10 @@
 
 2. Dimensionality Reduction (PCA & others): [A short tutorial] (https://www.math.uwaterloo.ca/~aghodsib/courses/f06stat890/readings/tutorial_stat890.pdf)
 
+3. Decision Jungles: [prlink](http://geekstack.net/resources/public/downloads/tobias_pohlen_decision_jungles.pdf)
+
+4. Decision Jungles: [bigling](http://geekstack.net/resources/public/downloads/tobias_pohlen_decision_jungles_slides.pdf)
+
 
 ### HSE work (learning path)
 
