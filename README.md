@@ -31,4 +31,10 @@
 
 1. Анализ данных онлайн социальных сетей с помощью бикластеризации и трикластеризации: [HSE](https://www.hse.ru/mirror/pubs/lib/data/access/ram/ticket/2/153821354141735fe6cc4fbf905f844c207188e706/%D0%93%D0%BD%D0%B0%D1%82%D1%8B%D1%88%D0%B0%D0%BA%20-%20%D0%9A%D0%98%D0%98%20(%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F1).pdf)
 
+### Target audience (NN)
 
+#### data 2018-10
+
+1. https://www.researchgate.net/publication/229672966_Applying_Neural_Computing_to_Target_Marketing
+
+2. https://blog.goodaudience.com/artificial-neural-networks-explained-436fcf36e75
