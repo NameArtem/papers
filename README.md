@@ -24,6 +24,7 @@
 
 4. Decision Jungles: [bigling](http://geekstack.net/resources/public/downloads/tobias_pohlen_decision_jungles_slides.pdf)
 
+5. ML Crawler: [paper](http://homepage.divms.uiowa.edu/~psriniva/Papers/TOIS05.pdf)
 
 ### HSE work (learning path)
 
