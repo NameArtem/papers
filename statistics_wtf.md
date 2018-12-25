@@ -18,6 +18,4 @@
 ----
 1. По формуле Стерджесса:
 
- $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
-
-$\to 1 + 3,32 * log_{10} n$
+![bins](https://github.com/NameArtem/papers/blob/master/bins_Stredg.gif)
