@@ -18,4 +18,9 @@
 ----
 1. По формуле Стерджесса:
 
-![bins](https://github.com/NameArtem/papers/blob/master/bins_Stredg.gif)
+    ![bins](https://github.com/NameArtem/papers/blob/master/bins_Stredg.gif), где n - количество данных (exp: len of numpy.array)
+
+2. Определение величины интервала:
+     ![bins](https://github.com/NameArtem/papers/blob/master/Value_of_Interval.gif), где k - кол-во группировок
+
+
