@@ -70,3 +70,8 @@ index расчитывается по формуле:
 |Model ..| binds_type ..| | | | |
 |Model ..| binds_type ..| | | | |
 | .. | ..| | | | |
+
+
+| score | expected good % (model old) | % model 1 / expected good % (model old)| .. | 
+| :---: | :-------------------------: | :------------------------------------: |:--:|
+
