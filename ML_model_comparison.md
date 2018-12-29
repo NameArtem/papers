@@ -61,14 +61,14 @@ index расчитывается по формуле:
 
 |    |     | score | кол-во входящего потока | % прошедших модель | % миграции и группы binds |
 |:--:| :--:| :---: | :---------------------: | :----------------: | :-----------------------: |
-|Model Old| binds_type 1 | | | | |
-|Model Old| binds_type ..| | | | |
-|Model Old| binds_type № | | | | |
-|Model 1 | binds_type 1 | | | | |
-|Model 1| binds_type ..| | | | |
-|Model 1| binds_type № | | | | |
-|Model ..| binds_type ..| | | | |
-|Model ..| binds_type ..| | | | |
+|Model Old| binds_type 1 | | | | 0 |
+|Model Old| binds_type ..| | | | 0 |
+|Model Old| binds_type № | | | | 0 |
+|Model 1 | binds_type 1 | | | | Model 1 / Model Old |
+|Model 1| binds_type ..| | | | Model 1 / Model Old |
+|Model 1| binds_type № | | | | Model 1 / Model Old |
+|Model ..| binds_type ..| | | | Model .. / Model Old |
+|Model ..| binds_type ..| | | | Model .. / Model Old |
 | .. | ..| | | | |
 
 
