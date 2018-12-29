@@ -23,9 +23,18 @@
 
 ### Шаг 4. Построение таблицы выигрышей
 
-|    | bind_type | actual % | Expected % | Actual - Expected | Actual / Expected | LN(Actual / Expected) | index |
+|    | score group | количество в группе | факт.good | факт.bad | model good | model bad |
+|:--:| :-------: | :------: | :--------: | :---------------: | :---------------: | :-------------------: |
+|Model Old| | | | | | | | 
+| Model 1 | | | | | | | |
+| ....... | | | | | | | |
+
+
+|    | bind_type | actual % | expected % | actual - expected | actual / expected | ln(actual / expected) | index |
 |:--:| :-------: | :------: | :--------: | :---------------: | :---------------: | :-------------------: | :---: |
 |Model Old| | | | | | | | |
 | Model 1 | | | | | | | | |
 | ....... | | | | | | | | |
 
+
+### 
